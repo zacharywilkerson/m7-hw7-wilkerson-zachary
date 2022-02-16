@@ -150,7 +150,6 @@ span.tooltip {
 span.tooltip:hover,
 span.tooltip:focus {
   text-decoration: underline;
-  z-index: 2;
 }
 /* show tooltip on hover/focus */
 span.tooltip:hover > span,
